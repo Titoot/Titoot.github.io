@@ -62,7 +62,7 @@ This yields an XORed value of the two plaintexts. Given one plaintext, we can de
 > If you XOR two things together, and then XOR the result against one of them, you get the other one.
 {: .prompt-info }
 
-Using [cribdrag](http://cribdrag.com/), we find:
+Using [cribdrag](https://cribdrag.com/), we find:
 
 | Plain           | first_key     | second_key  |
 | :-------------- | :-------------| :---------- |
